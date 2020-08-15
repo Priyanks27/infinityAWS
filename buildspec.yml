@@ -23,4 +23,4 @@ phases:
 
 artifacts:
   files:
-    - target\infinityAWS-0.0.1-SNAPSHOT.jar
+    - target/infinityAWS-0.0.1-SNAPSHOT.jar
