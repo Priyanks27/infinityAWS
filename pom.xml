@@ -9,9 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.lyit.multicloud</groupId>
-	<artifactId>InventoryService</artifactId>
+	<artifactId>infinityAWS</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>InventoryService</name>
+	<packaging>jar</packaging>
+	<name>infinityAWS</name>
 	<description>Spring Boot App using H2 data</description>
 
 	<properties>
