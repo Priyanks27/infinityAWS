@@ -24,7 +24,7 @@ public class InventoryController {
     }
 
     @GetMapping("/inventory/{id}")
-    public InventoryModel getInventoryItemById(@PathVariable Long id) {
+    public InventoryModel getInventoryItemById(@PathVariable UUID id) {
      return inventoryService.getInventoryItemById(id);
     }
 
